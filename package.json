@@ -1,0 +1,19 @@
+{
+  "name": "gitflow",
+  "version": "1.0.0",
+  "description": "To learn git flow model.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadAkif/GitFlow.git"
+  },
+  "author": "Muhammad Akif <muhammad.akif786@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuhammadAkif/GitFlow/issues"
+  },
+  "homepage": "https://github.com/MuhammadAkif/GitFlow#readme"
+}
